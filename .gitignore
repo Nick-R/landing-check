@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+!.env.example
+test-results/
+playwright-report/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+secrets.txt
